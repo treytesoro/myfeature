@@ -1,6 +1,6 @@
 {
     "name": "MyFeature",
-    "id": "myfeature",
+    "id": "testfeature",
     "version": "1.0.0",
     "description": "A test feature",
     "installsAfter": [
